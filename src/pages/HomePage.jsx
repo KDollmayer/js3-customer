@@ -39,7 +39,9 @@ export default function HomePage() {
 
     return (
         <Container>
-            <Nav><H1>Customer register</H1> </Nav>
+            <Nav><H1>Customer register</H1> 
+             <UserInformation/>
+            </Nav>
             
             
            <Grid>
